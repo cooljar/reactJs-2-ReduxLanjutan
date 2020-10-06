@@ -40,5 +40,3 @@ Pada latihan ini kita membuat aplikasi pencatat tugas sederhana dengan fitur seb
 
 ### Contoh Hasil Aplikasi
 ![Alt Text](app.gif)
-
-
