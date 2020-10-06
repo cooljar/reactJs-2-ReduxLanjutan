@@ -38,7 +38,7 @@ Pada latihan ini kita membuat aplikasi pencatat tugas sederhana dengan fitur seb
 - Ceklist tugas untuk menandakan bahwa tugas sudah diselesaikan
 - Filter tugas, untuk menampilkan daftar tugas berdasarkan semua tugas, yang sudah selesai, dan yang belum dikerjakan.
 
-Contoh Hasil Aplikasi
+### Contoh Hasil Aplikasi
 ![Alt Text](app.gif)
 
 
