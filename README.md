@@ -1,68 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Latihan React JS Bagian 2 - Redux Intro
+Project ini merupakan bagian dari seri tutorial react JS yang disediakan oleh microdata.
 
-## Available Scripts
+### Sebelum Memulai
+Pastikan git sudah terinstall di komputer anda, 
+jika belum, panduannya bisa dilihat [disini](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).<br />
 
-In the project directory, you can run:
+### Pemasangan
+Clone repository.<br />
+Jalankan perintah dibawah ini untuk mengambil repositori
+```
+git clone git@github.com:cooljar/reactJs-2-ReduxLanjutan.git
+```
 
-### `npm start`
+Masuk ke direktori project dengan menjalankan perintah berikut
+```
+cd reactJs-2-ReduxLanjutan
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Memasang semua paket dependency dengan menjalankan perintah berikut
+```
+npm install
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Menjalankan Aplikasi
+Jalankan perintah berikut untuk mulai menjalankan aplikasi
+```
+npm start
+```
+Buka browser dan ketikan alamat: http://localhost:3000
 
-### `npm test`
+### Contoh Tampilan
+![Alt Text](ToDoApp.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Apa Yang Harus Diselesaikan Pada Latihan Ini
+Pada latihan ini kita membuat aplikasi pencatat tugas sederhana dengan fitur sebagai berikut: 
+- Menambahkan tugas baru
+- Ceklist tugas untuk menandakan bahwa tugas sudah diselesaikan
+- Filter tugas, untuk menampilkan daftar tugas berdasarkan semua tugas, yang sudah selesai, dan yang belum dikerjakan.
 
-### `npm run build`
+- [Alt Text](https://github.com/dceddia/redux-intro)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
