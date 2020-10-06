@@ -1,4 +1,4 @@
-## Latihan React JS Bagian 2 - Redux Intro
+## Latihan React JS Bagian 2 - Redux Lanjutan
 Project ini merupakan bagian dari seri tutorial react JS yang disediakan oleh microdata.
 
 ### Sebelum Memulai
@@ -38,6 +38,7 @@ Pada latihan ini kita membuat aplikasi pencatat tugas sederhana dengan fitur seb
 - Ceklist tugas untuk menandakan bahwa tugas sudah diselesaikan
 - Filter tugas, untuk menampilkan daftar tugas berdasarkan semua tugas, yang sudah selesai, dan yang belum dikerjakan.
 
-- [Alt Text](https://github.com/dceddia/redux-intro)
+Contoh Hasil Aplikasi
+![Alt Text](app.gif)
 
 
